@@ -18,9 +18,18 @@ Here are some ideas to get you started:
 エンジニアとして、技術とデザインでワクワクを形にすることを目標に気軽に開発しています。
 
 ## スキルセット
-- **Languages:** TypeScript, Python, Java
-- **Frontend:** Vue.js, Tailwind CSS, HTML/CSS
-- **Backend:** Django, PostgreSQL
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
+
+### Backend & Database
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
 
 ## 制作物 (Featured Project)
 私が開発したフリー音楽WEBアプリです。

@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Backend & Database
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
 

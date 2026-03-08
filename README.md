@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 # こんにちは♪ 片岡奏空(Sora Kataoka)です。
 
 エンジニアとして、技術とデザインでワクワクを形にすることを目標に気軽に開発しています。
-
 ## スキルセット(Skills)
+
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)

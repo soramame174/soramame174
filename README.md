@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# こんにちは♪ 片岡奏空(sora kataoka)です。
+# こんにちは♪ 片岡奏空(Sora Kataoka)です。
 
 エンジニアとして、技術とデザインでワクワクを形にすることを目標に気軽に開発しています。
 

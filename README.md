@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css-3&logoColor=fff)
 
 ### Backend & Database
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)

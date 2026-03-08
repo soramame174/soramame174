@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
 
 ## 制作物 (Featured Project)
-私が開発したフリー音楽WEBアプリです。
+自分が開発したフリー音楽WEBアプリです。
 ### [MelodyNotes (メロディノ)](https://github.com/soramame174/vantan1)
 - 概要: 音楽クリエイター同士がフリーの楽曲を登録・検索・共有できるプラットフォームです。ファイル機能で管理がしやすくなり、クリエイターの創作活動を支援するために作成いたしました。
 - 詳細は上記リポジトリのREADMEをご覧ください。
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   - リクエスト機能: 楽曲を探す側と提供する側のニーズをマッチングさせることで、単なるBGM共有に留まらない、次なる創作のヒントが生まれる場を提供します。
   - プレイリスト共有: 自分が作成したプレイリストを他ユーザーと共有し、オススメを紹介することで、クリエイター同士の交流を促進します。
 
-私が開発した従業員勤怠管理・生産性向上WEBアプリです。
+自分が開発した従業員勤怠管理・生産性向上WEBアプリです。
 ### [勤怠管理・業務効率化システム](https://github.com/soramame174/attendance_system)
 - 概要: 複数のITベンチャー企業での利用を想定した、従業員の勤怠管理業務の効率化と生産性向上を支援する統合管理プラットフォームです。
 

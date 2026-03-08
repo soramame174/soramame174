@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 エンジニアとして、技術とデザインでワクワクを形にすることを目標に気軽に開発しています。
 
-## スキルセット
+## スキルセット(Skills)
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)

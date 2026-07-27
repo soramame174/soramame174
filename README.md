@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 # こんにちは♪ 片岡奏空(Kataoka Sora)です 🌱
 
 エンジニアとして、技術とデザインでワクワクを形にすることを目標に気軽に開発しています。
+
 [自分のポートフォリオです。趣味で作成したゲームや作品があるのでよければ見ていってください。](https://my-portfolio-1gyk9q8pz-soramame.vercel.app)
+
+
 ## スキルセット(Skills)
 
 ### Frontend

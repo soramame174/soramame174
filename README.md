@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 エンジニアとして、技術とデザインでワクワクを形にすることを目標に気軽に開発しています。
 
-[自分のポートフォリオです。趣味で作成したゲームや作品があるのでよければ見ていってください。VercelでURLを公開しています。](https://my-portfolio-git-main-soramame.vercel.app)
+自分のポートフォリオです。趣味で作成したゲームや作品があるのでよければ[見て](https://my-portfolio-git-main-soramame.vercel.app)いってください。
 
 
 ## スキルセット(Skills)
